@@ -1,7 +1,6 @@
 from fastapi import FastAPI
 import uvicorn
 from .database import engine
-from . import models
 from .routers import posts
 from .routers import users
 from .routers import auth
