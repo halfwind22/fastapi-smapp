@@ -33,5 +33,3 @@ def get_db():
         db.close()
 
 Base = declarative_base()
-
-print(__name__)
