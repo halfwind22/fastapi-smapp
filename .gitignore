@@ -1,0 +1,7 @@
+/.vscode
+/__pycache__
+/app/__pycache__
+/alembic_Mysql\versions\__pycache__
+/FastAPI-working-with-dbs.docx
+/alembic_Mysql\__pycache__
+/fastpi_env
